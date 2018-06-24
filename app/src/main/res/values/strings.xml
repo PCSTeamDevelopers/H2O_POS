@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">H2O!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="welcome_en">Welcome To H2O</string>
+    <string name="welcome_ar">أهلا بك في H2O</string>
+
+    <string name="chosen_arabic">لقد اخترت اللغة العربية</string>
+
+    <string name="Selectfloor_en">select a floor</string>
+    <string name="Selectfloor_ar">اختر الطابق</string>
+    <string name="saved_ar">تم الحفظ</string>
+    <string name="enter_password_en">Please enter your password</string>
+    <string name="enter_password_ar">الرجاء إدخال الرمز السري</string>
+    <string name="enter_pass_ar">ادخل الرمز السري</string>
+    <string name="login_ar">دخول</string>
+    <string name="save_ar">حفظ</string>
+
+    <string name="enter_host_ar">الرجاء ادخال عنوان الخادم</string>
+    <string name="enter_ip_ar">ادخل العنوان</string>
+    <string name="enter_port_ar">ادخل المنفذ</string>
+    <string name="example_ar">مثال: 192.186.0.101:8080</string>
+    <string name="busy_ar">مشغول</string>
+    <string name="idle_ar">آخر حركة</string>
+    <string name="open_table_ar">فتح طاولة</string>
+    <string name="open_table_dialog_ar">الرجاء ادخال عدد الضيوف و من ثم الضغط على نعم لفتح هذه الطاولة</string>
+    <string name="yes_ar">نعم</string>
+    <string name="no_ar">لا</string>
+
+    <string name="MsgException_ar">خطأ في استرجاع المعلومات من الخادم</string>
+    <string name="delete_ar">الغاء مادة</string>
+    <string name="delete_dialog_ar">هل انت متاكد من الغاء هذه المادة؟</string>
+    <string name="name_ar">اسم المادة</string>
+    <string name="price_ar">السعر</string>
+    <string name="qyt_ar">الكمية</string>
+    <string name="total_ar">المجموع</string>
+    <string name="invoice_ar">الفاتورة</string>
+    <string name="add_product_ar">اضافة مادة</string>
+    <string name="add_product_d_ar">ادخل الكمية</string>
+    <string name="flavor_ar">النكهات</string>
+    <string name="printed_ar">تم ارسال الطلب ليتم تحضيره</string>
+    <string name="delete_flavor_ar">مسح الملاحظات الحالية</string>
+    <string name="back_ar">إلغاء</string>
+    <string name="no_flavors_ar">لا يوجد نكهات لهذه المادة</string>
+    <string name="change_qyt_ar">تغيير الكمية</string>
+    <string name="enter_new_qyt_ar">ادخل الكمية الجديدة</string>
+    <string name="cancel_table_ar">الغاء الطاولة</string>
+    <string name="cancel_table_d_ar">هل أنت متأكد من إلغاء هذه الطاولة</string>
+
+    <string name="subtotal_ar">المجموع</string>
+    <string name="service_ar">الخدمة</string>
+    <string name="tax_ar">الضريبة</string>
+    <string name="discount_ar">الخصم</string>
+    <string name="grandtotal_ar">المجموع الاجمالي</string>
+
+    <string name="products_ar">المواد</string>
+    <string name="flavor_added_ar">تم اضافة النكهة</string>
+    <string name="note_arabic">ملاحظة</string>
+    <string name="title_activity_floor_selector">FloorSelector</string>
+    <string name="title_activity_selecttable">Selecttable</string>
+    <string name="title_activity_select_category">SelectCategory</string>
+    <string name="title_activity_enter_host_ip">EnterHostIP</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_actionbar">ActionbarActivity</string>
+    <string name="add_note_ar">اضف ملاحظة</string>
+    <string name="other_note_ar">أخرى</string>
+    <string name="waiting_ar">يرجى الانتظار</string>
+    <string name="prepared_item_flavor">لا يمكنك اضافة او تغيير نكهة لمادة تم تحضيرها</string>
+    <string name="about_us_ar">من نحن</string>
+    <string name="settings_ar">الإعدادات</string>
+    <string name="about_us_txt_ar">شركة مخازن الحاسوب هي شركة مختصة بتكنولوجيا المعلومات و تقدم خدمات للعملاء في جميع القطاعات مثل: المصانع والشركات والبناء، والخدمات المصرفية والمالية، والتعليمية، التأمين، والصحة، خاصة والقطاعات العامة. تأسست شركة مخازن الحاسوب في عام 1998.</string>
+    <string name="about_us_txt">PC Stores is a professional IT company which provides services to customers in all sectors such as:  Factories and corporations, Construction, Banking and finance, Educational, Insurance, Health, Private and Public Sectors. PC Stores Co. was established in 1998.</string>
+    <string name="cancel_ar">الغاء</string>
+    <string name="add_ar">اضافة</string>
+    <string name="jordan_ar">الأردن</string>
+    <string name="ksa_ar">السعودية</string>
+
+    <string name="prepared_item_ar">لا يمكنك حذف مادة تم تحضيرها</string>
+    <string name="prepered_table_ar">لا يمكنك حذف طاولة تم تحضير مواد فيها</string>
+    <string name="fail_to_connect">يتعذر الاتصال بالخادم</string>
+    <string name="wrong_password">خطأ في الرقم السري</string>
+    <string name="close_connection">يرجى التأكد من الشبكة</string>
+    <string name="cant_edit_qyt">لا يمكنك تغيير كمية مادة تم تحضيرها</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_drawer_menu">DrawerMenu</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="k_0">۰</string>
+    <string name="k_1">۱</string>
+    <string name="k_2">۲</string>
+    <string name="k_3">۳</string>
+    <string name="k_4">٤</string>
+    <string name="k_5">٥</string>
+    <string name="k_6">٦</string>
+    <string name="k_7">٧</string>
+    <string name="k_8">۸</string>
+    <string name="k_9">۹</string>
+
+    <string name="waiter_ar">المستخدم: </string>
+    <string name="login_time_ar">وقت دخول النظام: </string>
+    <string name="port_ar">المنفذ: </string>
+    <string name="host_ar">عنوان الخادم: </string>
+
+    <string name="server_connection">اعدادات الاتصال بالخادم</string>
+    <string name="design_settings">خيارات التصميم</string>
+    <string name="font_ar">حجم الخط</string>
+    <string name="arabic_ar">اللغة العربية</string>
+    <string name="english_ar">اللغة الانجليزية</string>
+    <string name="tables_screen">شاشة الطاولات</string>
+    <string name="orders_screen">شاشة الطلبية</string>
+
+    <string name="item_no_colom">عدد اعمدة المواد</string>
+    <string name="tables_no_colom">عدد اعمدة الطاولات</string>
+    <string name="item_icon_height">ارتفاع ايقونة المادة</string>
+
+    <string name="grid_layout">OFF: قائمة سحب . ON: قائمة مثبتة</string>
+    <string name="drawer_layout">قائمة السحب</string>
+    <string name="categ_display">طريقة عرض المجموعات: </string>
+    <string name="enter_host_beforelogin">الرجاء ادخال عنوان الخادم و المنفذ من خلال شاشة الاعدادات قبل محاولة الدخول للنظام</string>
+
+    <string name="name_colwidth">حجم عمود اسم الصنف</string>
+    <string name="price_colwidth">حجم عمود السعر</string>
+    <string name="qyt_colwidth">حجم عمود الكمية</string>
+    <string name="total_colwidth">حجم عمود السعر الكلي</string>
+    <string name="ivoice_settings_ar">خيارات شاشة الفاتورة</string>
+    <string name="save_changes_ar">هل تريد حفظ التغييرات؟</string>
+
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_print">printActivity</string>
+    <string name="title_activity_aboutus">Aboutus</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_test">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>

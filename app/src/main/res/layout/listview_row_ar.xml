@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="right">
+    <com.andexert.library.RippleView
+        android:id="@+id/rippleview_grid_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:rv_rippleDuration="250"
+        android:gravity="right"
+        android:layout_gravity="right"
+        android:layout_alignParentRight="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right">
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:rowCount="2">
+
+            <Button
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_margin="2dp"
+                android:id="@+id/btn_flavor"
+                android:layout_rowSpan="2"
+                android:stateListAnimator="@null"
+                android:background="@drawable/button_flavor_pepper"
+                android:layout_toLeftOf="@+id/total_tv"
+                android:layout_row="0"
+                android:layout_column="0" />
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:text="Total"
+                android:id="@+id/total_tv"
+                android:gravity="left"
+                android:layout_toLeftOf="@+id/qyt_tv"
+                android:layout_row="0"
+                android:layout_column="1" />
+
+            <TextView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_plain_gray"
+                android:text="qyt"
+                android:id="@+id/qyt_tv"
+                android:gravity="center"
+                android:layout_toLeftOf="@+id/price_tv"
+                android:layout_row="0"
+                android:layout_column="2" />
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:text="price"
+                android:id="@+id/price_tv"
+                android:gravity="left"
+                android:layout_toLeftOf="@+id/name_tv"
+                android:layout_row="0"
+                android:layout_column="3" />
+
+            <TextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/name_tv"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:gravity="right"
+                android:layout_toLeftOf="@+id/delete_item_btn"
+                android:layout_row="0"
+                android:layout_column="4" />
+
+            <TextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:text="Note"
+                android:id="@+id/note_tv"
+                android:gravity="right"
+                android:textColor="#217521"
+                android:layout_below="@+id/name_tv"
+                android:layout_toLeftOf="@+id/delete_item_btn"
+                android:layout_row="1"
+                android:layout_column="4" />
+
+            <Button
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_margin="2dp"
+                android:layout_rowSpan="2"
+                android:id="@+id/delete_item_btn"
+                android:stateListAnimator="@null"
+                android:background="@drawable/button_delete"
+                android:layout_alignParentRight="true"
+                android:layout_row="0"
+                android:layout_column="5" />
+
+        </GridLayout></TableRow>
+    </com.andexert.library.RippleView>
+</RelativeLayout>

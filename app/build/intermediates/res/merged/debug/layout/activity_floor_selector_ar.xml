@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android.support.design="http://schemas.android.com/apk/res-auto">
+
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tables_grid"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/nav_toolbar"
+        android:animateLayoutChanges="true"
+        android:layout_margin="10dp"/>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/nav_toolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@null"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false">
+
+    </android.support.v7.widget.Toolbar>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Waiter Name"
+        android:id="@+id/tv_waiter"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:layout_alignTop="@+id/nav_toolbar"
+        android:layout_alignRight="@+id/tables_grid"
+        android:layout_alignEnd="@+id/tables_grid"
+        android:layout_marginRight="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="LoginTime"
+        android:id="@+id/tv_logintime"
+        android:textSize="18dp"
+        android:layout_alignTop="@+id/nav_toolbar"
+        android:layout_toLeftOf="@+id/tv_waiter"
+        android:layout_toStartOf="@+id/tv_waiter"
+        android:layout_marginRight="50dp"
+        android:layout_marginEnd="50dp" />
+
+    <Spinner
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner_nav"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <android.support.design.widget.FloatingActionButton android:id="@+id/fab_floors"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:src="@android:drawable/ic_dialog_dialer"
+        android.support.design:fabSize="normal"
+        android:layout_alignBottom="@+id/nav_toolbar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <android.support.design.widget.FloatingActionButton android:id="@+id/fab_refresh"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:src="@android:drawable/ic_menu_rotate"
+        android.support.design:fabSize="normal"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/spinner_nav"
+        android:layout_toEndOf="@+id/spinner_nav" />
+
+</RelativeLayout>

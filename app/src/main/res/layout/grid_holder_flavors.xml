@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/grid_image"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@drawable/button_yellow_plain"
+        android:clickable="false"
+        android:maxWidth="80dp">
+    </ImageView>
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="rb"
+        android:id="@+id/radioButton_flavor"
+        android:layout_gravity="center"
+        android:checked="false"
+        android:textSize="16dp" />
+
+</FrameLayout>
