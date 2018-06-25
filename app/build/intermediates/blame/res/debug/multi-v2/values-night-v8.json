@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2ce6ffadca022ac303cb91d7e0723490\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d2fc6c1562b7692ea2a3cfae777a5fda\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2ce6ffadca022ac303cb91d7e0723490\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d2fc6c1562b7692ea2a3cfae777a5fda\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

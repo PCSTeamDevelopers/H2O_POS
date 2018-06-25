@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\values-hy-rAM\\values-hy-rAM.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\0b9ffa5918fcb9edff9f36300706cabd\\res\\values-hy-rAM\\base_strings.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "170,267",
-                        "endColumns": "96,111",
-                        "endOffsets": "262,374"
-                    },
-                    "to": {
-                        "startLines": "32,33",
-                        "startColumns": "4,4",
-                        "startOffsets": "5086,5183",
-                        "endColumns": "96,111",
-                        "endOffsets": "5178,5290"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\5db68f7746e5cf732271245ce22d64de\\res\\values-hy-rAM\\common_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\498be03d9d426245260ffa4420d2e1c2\\res\\values-hy-rAM\\common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,32 +18,32 @@
                         "startOffsets": "105,298,486,602,893,1030,1227,1362,1529,1668,1890,2112,2248,2416,2541,2714,2893,3013,3199,3342,3514,3637,3783,4054,4186,4295,4494,4631,4852,4991",
                         "endColumns": "192,187,115,290,136,196,134,166,138,221,221,135,167,124,172,178,119,185,142,171,122,145,270,131,108,198,136,220,138,94",
                         "endOffsets": "293,481,597,888,1025,1222,1357,1524,1663,1885,2107,2243,2411,2536,2709,2888,3008,3194,3337,3509,3632,3778,4049,4181,4290,4489,4626,4847,4986,5081"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\4f984dffcc7d08d265ab91e0a274d0c6\\res\\values-hy-rAM\\base_strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "170,267",
+                        "endColumns": "96,111",
+                        "endOffsets": "262,374"
+                    },
+                    "to": {
+                        "startLines": "32,33",
+                        "startColumns": "4,4",
+                        "startOffsets": "5086,5183",
+                        "endColumns": "96,111",
+                        "endOffsets": "5178,5290"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\values-hy-rAM\\values-hy-rAM.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\0b9ffa5918fcb9edff9f36300706cabd\\res\\values-hy-rAM\\base_strings.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "170,267",
-                        "endColumns": "96,111",
-                        "endOffsets": "262,374"
-                    },
-                    "to": {
-                        "startLines": "32,33",
-                        "startColumns": "4,4",
-                        "startOffsets": "5086,5183",
-                        "endColumns": "96,111",
-                        "endOffsets": "5178,5290"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\5db68f7746e5cf732271245ce22d64de\\res\\values-hy-rAM\\common_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\498be03d9d426245260ffa4420d2e1c2\\res\\values-hy-rAM\\common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,6 +57,23 @@
                         "startOffsets": "105,298,486,602,893,1030,1227,1362,1529,1668,1890,2112,2248,2416,2541,2714,2893,3013,3199,3342,3514,3637,3783,4054,4186,4295,4494,4631,4852,4991",
                         "endColumns": "192,187,115,290,136,196,134,166,138,221,221,135,167,124,172,178,119,185,142,171,122,145,270,131,108,198,136,220,138,94",
                         "endOffsets": "293,481,597,888,1025,1222,1357,1524,1663,1885,2107,2243,2411,2536,2709,2888,3008,3194,3337,3509,3632,3778,4049,4181,4290,4489,4626,4847,4986,5081"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\4f984dffcc7d08d265ab91e0a274d0c6\\res\\values-hy-rAM\\base_strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "170,267",
+                        "endColumns": "96,111",
+                        "endOffsets": "262,374"
+                    },
+                    "to": {
+                        "startLines": "32,33",
+                        "startColumns": "4,4",
+                        "startOffsets": "5086,5183",
+                        "endColumns": "96,111",
+                        "endOffsets": "5178,5290"
                     }
                 }
             ]

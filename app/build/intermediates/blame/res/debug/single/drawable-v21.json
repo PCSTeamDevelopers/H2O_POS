@@ -1,46 +1,46 @@
 [
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_sync_black_24dp.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\65695ef252d9b4ac917f67c065cd1d7e\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_notifications_black_24dp.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\65695ef252d9b4ac917f67c065cd1d7e\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\843c87740cf1c7eb19e744cef6a86e23\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d2fc6c1562b7692ea2a3cfae777a5fda\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2ce6ffadca022ac303cb91d7e0723490\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d2fc6c1562b7692ea2a3cfae777a5fda\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2ce6ffadca022ac303cb91d7e0723490\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d2fc6c1562b7692ea2a3cfae777a5fda\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\843c87740cf1c7eb19e744cef6a86e23\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\65695ef252d9b4ac917f67c065cd1d7e\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\843c87740cf1c7eb19e744cef6a86e23\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\65695ef252d9b4ac917f67c065cd1d7e\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\843c87740cf1c7eb19e744cef6a86e23\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_notifications_black_24dp.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2ce6ffadca022ac303cb91d7e0723490\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\6cb925fc573d4704ac5e111448cdecb3\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0f6a793f928de7cc8c7e34716837bf29\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_sync_black_24dp.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
     }
 ]

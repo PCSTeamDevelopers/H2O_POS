@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\values-my-rMM\\values-my-rMM.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\0b9ffa5918fcb9edff9f36300706cabd\\res\\values-my-rMM\\base_strings.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "170,273",
-                        "endColumns": "102,118",
-                        "endOffsets": "268,387"
-                    },
-                    "to": {
-                        "startLines": "32,33",
-                        "startColumns": "4,4",
-                        "startOffsets": "5233,5336",
-                        "endColumns": "102,118",
-                        "endOffsets": "5331,5450"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\5db68f7746e5cf732271245ce22d64de\\res\\values-my-rMM\\common_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\498be03d9d426245260ffa4420d2e1c2\\res\\values-my-rMM\\common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,32 +18,32 @@
                         "startOffsets": "105,311,517,642,915,1052,1247,1382,1556,1695,1919,2145,2281,2460,2586,2768,2944,3064,3256,3396,3616,3761,3910,4184,4316,4427,4632,4773,4997,5138",
                         "endColumns": "205,205,124,272,136,194,134,173,138,223,225,135,178,125,181,175,119,191,139,219,144,148,273,131,110,204,140,223,140,94",
                         "endOffsets": "306,512,637,910,1047,1242,1377,1551,1690,1914,2140,2276,2455,2581,2763,2939,3059,3251,3391,3611,3756,3905,4179,4311,4422,4627,4768,4992,5133,5228"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\4f984dffcc7d08d265ab91e0a274d0c6\\res\\values-my-rMM\\base_strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "170,273",
+                        "endColumns": "102,118",
+                        "endOffsets": "268,387"
+                    },
+                    "to": {
+                        "startLines": "32,33",
+                        "startColumns": "4,4",
+                        "startOffsets": "5233,5336",
+                        "endColumns": "102,118",
+                        "endOffsets": "5331,5450"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\values-my-rMM\\values-my-rMM.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\0b9ffa5918fcb9edff9f36300706cabd\\res\\values-my-rMM\\base_strings.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "170,273",
-                        "endColumns": "102,118",
-                        "endOffsets": "268,387"
-                    },
-                    "to": {
-                        "startLines": "32,33",
-                        "startColumns": "4,4",
-                        "startOffsets": "5233,5336",
-                        "endColumns": "102,118",
-                        "endOffsets": "5331,5450"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\5db68f7746e5cf732271245ce22d64de\\res\\values-my-rMM\\common_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\498be03d9d426245260ffa4420d2e1c2\\res\\values-my-rMM\\common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,6 +57,23 @@
                         "startOffsets": "105,311,517,642,915,1052,1247,1382,1556,1695,1919,2145,2281,2460,2586,2768,2944,3064,3256,3396,3616,3761,3910,4184,4316,4427,4632,4773,4997,5138",
                         "endColumns": "205,205,124,272,136,194,134,173,138,223,225,135,178,125,181,175,119,191,139,219,144,148,273,131,110,204,140,223,140,94",
                         "endOffsets": "306,512,637,910,1047,1242,1377,1551,1690,1914,2140,2276,2455,2581,2763,2939,3059,3251,3391,3611,3756,3905,4179,4311,4422,4627,4768,4992,5133,5228"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\4f984dffcc7d08d265ab91e0a274d0c6\\res\\values-my-rMM\\base_strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "170,273",
+                        "endColumns": "102,118",
+                        "endOffsets": "268,387"
+                    },
+                    "to": {
+                        "startLines": "32,33",
+                        "startColumns": "4,4",
+                        "startOffsets": "5233,5336",
+                        "endColumns": "102,118",
+                        "endOffsets": "5331,5450"
                     }
                 }
             ]

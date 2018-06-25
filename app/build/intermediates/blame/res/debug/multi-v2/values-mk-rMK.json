@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk-rMK\\values-mk-rMK.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk-rMK\\values-mk-rMK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\0b9ffa5918fcb9edff9f36300706cabd\\res\\values-mk-rMK\\base_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\4f984dffcc7d08d265ab91e0a274d0c6\\res\\values-mk-rMK\\base_strings.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\5db68f7746e5cf732271245ce22d64de\\res\\values-mk-rMK\\common_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\498be03d9d426245260ffa4420d2e1c2\\res\\values-mk-rMK\\common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,10 +40,10 @@
             ]
         },
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\values-mk-rMK\\values-mk-rMK.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\values-mk-rMK\\values-mk-rMK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\0b9ffa5918fcb9edff9f36300706cabd\\res\\values-mk-rMK\\base_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\4f984dffcc7d08d265ab91e0a274d0c6\\res\\values-mk-rMK\\base_strings.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
@@ -60,7 +60,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\5db68f7746e5cf732271245ce22d64de\\res\\values-mk-rMK\\common_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\498be03d9d426245260ffa4420d2e1c2\\res\\values-mk-rMK\\common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

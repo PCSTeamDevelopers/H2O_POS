@@ -1,30 +1,30 @@
 [
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_order_layout.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\layout-large\\activity_order_layout.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_main_layout.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\layout-large\\activity_main_layout.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_order_layout_grid_ar.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\layout-large\\activity_order_layout_grid_ar.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\listview_row_ar.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\layout-large\\listview_row_ar.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\listview_row.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\layout-large\\listview_row.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_order_layout_grid_ar.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\layout-large\\activity_order_layout_grid_ar.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_order_layout_grid.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\layout-large\\activity_order_layout_grid.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_order_layout_ar.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\layout-large\\activity_order_layout_ar.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_main_layout.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\layout-large\\activity_main_layout.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_order_layout.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\layout-large\\activity_order_layout.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\listview_row_ar.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\layout-large\\listview_row_ar.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\listview_row.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\layout-large\\listview_row.xml"
     },
     {
-        "merged": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_order_layout_ar.xml",
-        "source": "D:\\mobile\\H2O\\app\\src\\main\\res\\layout-large\\activity_order_layout_ar.xml"
+        "merged": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_order_layout_grid.xml",
+        "source": "D:\\Obadah\\H2O_POS\\app\\src\\main\\res\\layout-large\\activity_order_layout_grid.xml"
     }
 ]

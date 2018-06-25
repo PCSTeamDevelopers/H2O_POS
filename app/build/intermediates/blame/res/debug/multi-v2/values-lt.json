@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\res\\merged\\debug\\values-lt\\values-lt.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\0b9ffa5918fcb9edff9f36300706cabd\\res\\values-lt\\base_strings.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "170,266",
-                        "endColumns": "95,119",
-                        "endOffsets": "261,381"
-                    },
-                    "to": {
-                        "startLines": "51,52",
-                        "startColumns": "4,4",
-                        "startOffsets": "7038,7134",
-                        "endColumns": "95,119",
-                        "endOffsets": "7129,7249"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2ce6ffadca022ac303cb91d7e0723490\\res\\values-lt\\values-lt.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d2fc6c1562b7692ea2a3cfae777a5fda\\res\\values-lt\\values-lt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\5db68f7746e5cf732271245ce22d64de\\res\\values-lt\\common_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\498be03d9d426245260ffa4420d2e1c2\\res\\values-lt\\common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,32 +35,32 @@
                         "startOffsets": "2107,2299,2481,2600,2897,3027,3211,3342,3517,3647,3861,4093,4220,4395,4521,4693,4867,4987,5172,5308,5486,5614,5756,6023,6151,6262,6458,6592,6804,6941",
                         "endColumns": "191,181,118,296,129,183,130,174,129,213,231,126,174,125,171,173,119,184,135,177,127,141,266,127,110,195,133,211,136,96",
                         "endOffsets": "2294,2476,2595,2892,3022,3206,3337,3512,3642,3856,4088,4215,4390,4516,4688,4862,4982,5167,5303,5481,5609,5751,6018,6146,6257,6453,6587,6799,6936,7033"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\4f984dffcc7d08d265ab91e0a274d0c6\\res\\values-lt\\base_strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "170,266",
+                        "endColumns": "95,119",
+                        "endOffsets": "261,381"
+                    },
+                    "to": {
+                        "startLines": "51,52",
+                        "startColumns": "4,4",
+                        "startOffsets": "7038,7134",
+                        "endColumns": "95,119",
+                        "endOffsets": "7129,7249"
                     }
                 }
             ]
         },
         {
-            "outputFile": "D:\\mobile\\H2O\\app\\build\\intermediates\\res\\merged\\debug\\values-lt\\values-lt.xml",
+            "outputFile": "D:\\Obadah\\H2O_POS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\0b9ffa5918fcb9edff9f36300706cabd\\res\\values-lt\\base_strings.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "170,266",
-                        "endColumns": "95,119",
-                        "endOffsets": "261,381"
-                    },
-                    "to": {
-                        "startLines": "51,52",
-                        "startColumns": "4,4",
-                        "startOffsets": "7038,7134",
-                        "endColumns": "95,119",
-                        "endOffsets": "7129,7249"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2ce6ffadca022ac303cb91d7e0723490\\res\\values-lt\\values-lt.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d2fc6c1562b7692ea2a3cfae777a5fda\\res\\values-lt\\values-lt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -94,7 +77,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dev1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\5db68f7746e5cf732271245ce22d64de\\res\\values-lt\\common_strings.xml",
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.3.0.aar\\498be03d9d426245260ffa4420d2e1c2\\res\\values-lt\\common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -108,6 +91,23 @@
                         "startOffsets": "2107,2299,2481,2600,2897,3027,3211,3342,3517,3647,3861,4093,4220,4395,4521,4693,4867,4987,5172,5308,5486,5614,5756,6023,6151,6262,6458,6592,6804,6941",
                         "endColumns": "191,181,118,296,129,183,130,174,129,213,231,126,174,125,171,173,119,184,135,177,127,141,266,127,110,195,133,211,136,96",
                         "endOffsets": "2294,2476,2595,2892,3022,3206,3337,3512,3642,3856,4088,4215,4390,4516,4688,4862,4982,5167,5303,5481,5609,5751,6018,6146,6257,6453,6587,6799,6936,7033"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEV3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.3.0.aar\\4f984dffcc7d08d265ab91e0a274d0c6\\res\\values-lt\\base_strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "170,266",
+                        "endColumns": "95,119",
+                        "endOffsets": "261,381"
+                    },
+                    "to": {
+                        "startLines": "51,52",
+                        "startColumns": "4,4",
+                        "startOffsets": "7038,7134",
+                        "endColumns": "95,119",
+                        "endOffsets": "7129,7249"
                     }
                 }
             ]

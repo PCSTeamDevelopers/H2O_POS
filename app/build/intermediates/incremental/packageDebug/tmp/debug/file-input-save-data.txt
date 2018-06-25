@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Sun Jun 24 10:12:33 GMT+02:00 2018
-1.base=D\:\\mobile\\H2O\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sun Jun 24 15:02:30 GMT+02:00 2018
+1.base=D\:\\Obadah\\H2O_POS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=ArabiaWeather.ttf
 0.set=ASSET
-0.base=D\:\\mobile\\H2O\\app\\build\\intermediates\\assets\\debug
+0.base=D\:\\Obadah\\H2O_POS\\app\\build\\intermediates\\assets\\debug
 1.path=classes.dex
