@@ -44,6 +44,7 @@ public class SettingsActivity extends AppCompatActivity {
             Msg_wantosave= getResources().getString(R.string.save_changes_ar);
             Msg_no= getResources().getString(R.string.no_ar);
             Msg_yes= getResources().getString(R.string.yes_ar);
+            Msg_yes= "نعم-لا";
         }
         else setContentView(R.layout.activity_settings_layout);
         //find view by id
