@@ -270,7 +270,14 @@
             android:textSize="30sp"
             android:background="@drawable/button_blue_plain" />
 
-
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:text="H2O GetHup Test"
+        android:textSize="30sp" />
 
 
 </RelativeLayout>
