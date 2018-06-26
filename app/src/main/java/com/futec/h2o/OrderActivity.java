@@ -95,8 +95,7 @@ public class OrderActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_order_layout);
-String x1;
-x1="test2";
+
         //get info from shared preference
         sharedPreferences=getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
         ip=sharedPreferences.getString("ip", "");

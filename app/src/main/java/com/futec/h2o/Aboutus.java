@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class Aboutus extends AppCompatActivity {
     boolean language=true; //true Arabic,false English
-//Obadah 25/6/2018
+
     public static final String MyPREFERENCES="H2OPreference";
     SharedPreferences prefs;
     TextView aboutus_tv,aboutus_txt,tv_jordan,tv_ksa;
@@ -35,8 +35,7 @@ public class Aboutus extends AppCompatActivity {
         tv_jordan.setTypeface(font);
         tv_ksa.setTypeface(font);
 
-String x;
-x="test";
+
 
         prefs=getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
         language=prefs.getBoolean("language", false);
