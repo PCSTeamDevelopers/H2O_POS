@@ -35,7 +35,8 @@ public class Aboutus extends AppCompatActivity {
         tv_jordan.setTypeface(font);
         tv_ksa.setTypeface(font);
 
-
+String x;
+x="test";
 
         prefs=getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
         language=prefs.getBoolean("language", false);
